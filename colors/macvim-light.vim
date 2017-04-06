@@ -55,7 +55,7 @@ hi MatchParen   guifg=White guibg=#AB82FF
 hi Search       guibg=#98F5FF guifg=NONE
 hi Statement    gui=bold guifg=#a71d5d guibg=NONE
 hi Todo         gui=NONE guifg=#006400 guibg=PaleGreen1
-hi Type         gui=bold guifg=#008000 guibg=NONE
+hi Type         gui=bold guifg=#009E00 guibg=NONE
 hi WildMenu     guibg=#87CEEB guifg=Black
 hi lCursor      guibg=fg guifg=bg
 hi Normal       guifg=#333333 ctermfg=236 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
