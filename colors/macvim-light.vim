@@ -35,7 +35,7 @@ hi VertSplit    gui=NONE guifg=#2F4F4F guibg=Gray90
 hi Visual       guibg=#72F7FF
 hi WarningMsg   guifg=#ee2c2c
 
-hi Error        gui=NONE guifg=White guibg=Firebrick3
+hi Error        guifg=#a71d5d guibg=NONE
 hi Identifier   gui=NONE guifg=#458B74 guibg=NONE
 hi Ignore       gui=NONE guifg=bg guibg=NONE
 hi PreProc      gui=NONE guifg=#1874CD guibg=NONE
